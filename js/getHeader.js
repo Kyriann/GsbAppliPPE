@@ -1,4 +1,4 @@
 $(document).ready(function(){
-    $.ajax({url: "http://localhost/testajax/header.php", success: function(result){
+    $.ajax({url: "http://localhost/applippe/header.php", success: function(result){
     }});
 });

@@ -1,6 +1,6 @@
 $.ajax({
     type: 'GET',
-    url: 'http://localhost/testajax/praticien.php?departNOM='+departNOM,
+    url: 'http://localhost/applippe/praticien.php?departNOM='+departNOM,
     data: { 
         'departNOM': departNOM
     },
